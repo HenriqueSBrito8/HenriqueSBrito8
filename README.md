@@ -3,7 +3,6 @@
 - I'm brazilian, born in 98'
 - 📚  Student, Systems Analysis and Development, University Nove de Julho
 - 📚  Student on Alura - Data Science and Data Analitycs
-- 💬 Contact-me on e-mail : henriquesantana89@gmail.com
 
 <div align="center">
   <a href="https://github.com/HenriqueSBrito8">
@@ -20,8 +19,23 @@
 </div>
 
 <div>  <br>
-  <a href="https://www.instagram.com/hen_riquedias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ ##  Contact-me on :<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+5511989965754)
+<a href="mailto:henriquesantana89@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/hen_riquedias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ <a href="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+
+
+
+<a href="https://github.com/HenriqueSBrito8/github-readme-stats">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueSBrito8&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/HenriqueSBrito8/convoychat">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueSBrito8&layout=compact&langs_count=200&card_width=320&theme=github_dark&show_icons=true" />
+</a>
  
  
 </div>
