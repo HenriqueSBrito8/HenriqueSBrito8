@@ -8,7 +8,7 @@
 
 
 <div>  <br>
-<h2>Contact-me on :</h2> 
+<h2>Contact-me at :</h2> 
 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+5511989965754)
 <a href="mailto:henriquesantana89@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
